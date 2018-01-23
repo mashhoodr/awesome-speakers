@@ -53,7 +53,11 @@ Mashhood Rastgar
 Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web    
 https://twitter.com/mashhoodr    
 
+<img src="https://pbs.twimg.com/profile_images/955881553636352000/NN7UZeFc_400x400.jpg" height="70px" width="auto" align="left" alt="" /> 
 
+Nasir Hussain
+Topics: Open Source, Linux, Apache, Machine Learning, Fire Base
+https://twitter.com/nasirhm1
 ## India 🇮🇳
 
 ### Bangalore
